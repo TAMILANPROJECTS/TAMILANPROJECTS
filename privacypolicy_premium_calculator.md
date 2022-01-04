@@ -130,12 +130,3 @@
 <p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.</p>
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
 <h1>Contact Us</h1>
-<p>If you have any questions about this Privacy Policy, You can contact us:</p>
-<ul>
-<li>
-<p>By email: tamilantamila00@gmail.com</p>
-</li>
-<li>
-<p>By visiting this page on our website: <a href="https://tamilanprojectsofficials.blogspot.com/" rel="external nofollow noopener" target="_blank">https://tamilanprojectsofficials.blogspot.com/</a></p>
-</li>
-</ul>
